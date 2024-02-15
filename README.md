@@ -1,4 +1,4 @@
-# CafeBazaarAuth Integration Project
+# CafeBazaarAuth Example Project
 
 This project demonstrates how to integrate CafeBazaarAuth with Jetpack Compose and Kotlin for Android development, focusing on implementing the InAppLogin feature and data storage/retrieval functionalities without the need for backend code.
 
